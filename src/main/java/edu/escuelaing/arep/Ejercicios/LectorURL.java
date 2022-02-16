@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class LectorURL {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("'Por favor ingresa la url:");
+        System.out.println("Por favor ingresa la url:");
         String datosIngresados = scan.nextLine();
 
         try {
